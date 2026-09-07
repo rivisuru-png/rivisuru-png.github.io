@@ -1,11 +1,11 @@
 {
-  "updated": "2026-09-03",
+  "updated": "2026-09-07",
   "games": [
     {
-      "name": "Poubelle City (Itch.io) Giveaway",
+      "name": "State of Mind (GOG) Giveaway",
       "platform": "epic",
-      "url": "https://www.gamerpower.com/open/poubelle-city-itch-io-giveaway",
-      "until": "2026-09-04"
+      "url": "https://www.gamerpower.com/open/state-of-mind-gog-giveaway",
+      "until": "2026-09-10"
     },
     {
       "name": "Evan's Remains (Mobile) Giveaway",
@@ -26,16 +26,16 @@
       "until": "N/A"
     },
     {
-      "name": "Beneath Europa (Itch.io) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/beneath-europa-itch-io-giveaway",
-      "until": "2026-09-04"
-    },
-    {
       "name": "NoRush! - Tower Edition (Epic Games) Giveaways",
       "platform": "epic",
       "url": "https://www.gamerpower.com/open/norush-tower-edition-epic-games-giveaways",
       "until": "2026-09-09"
+    },
+    {
+      "name": "Leaper (IndieGala) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/leaper-pc-giveaway",
+      "until": "N/A"
     }
   ]
 }
