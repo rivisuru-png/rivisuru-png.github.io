@@ -1,40 +1,40 @@
 {
-  "updated": "2026-09-07",
+  "updated": "2026-09-10",
   "games": [
     {
-      "name": "State of Mind (GOG) Giveaway",
+      "name": "Alone With You (Mobile) Giveaway",
       "platform": "epic",
-      "url": "https://www.gamerpower.com/open/state-of-mind-gog-giveaway",
-      "until": "2026-09-10"
+      "url": "https://www.gamerpower.com/open/alone-with-you-mobile-giveaway",
+      "until": "2026-09-17"
     },
     {
-      "name": "Evan's Remains (Mobile) Giveaway",
+      "name": "Astral Ascent (Epic Games) Giveaway",
       "platform": "epic",
-      "url": "https://www.gamerpower.com/open/evan-s-remains-mobile-giveaway",
-      "until": "2026-09-10"
+      "url": "https://www.gamerpower.com/open/astral-ascent-epic-games-giveaway",
+      "until": "2026-09-17"
     },
     {
-      "name": "Alone With You (Epic Games) Giveaway",
+      "name": "Luftrausers (Epic Games) Giveaway",
       "platform": "epic",
-      "url": "https://www.gamerpower.com/open/alone-with-you-epic-games-giveaway",
-      "until": "2026-09-10"
+      "url": "https://www.gamerpower.com/open/luftrausers-epic-games-giveaway",
+      "until": "2026-09-17"
+    },
+    {
+      "name": "MANDATO (Itch.io) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/mandato-itch-io-giveaway",
+      "until": "2026-09-11"
+    },
+    {
+      "name": "Liminal Space Holiday (Itch.io) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/liminal-space-holiday-itch-io-giveaway",
+      "until": "2026-09-13"
     },
     {
       "name": "Battle Ram (IndieGala) Giveaway",
       "platform": "epic",
       "url": "https://www.gamerpower.com/open/battle-ram-pc-giveaway",
-      "until": "N/A"
-    },
-    {
-      "name": "NoRush! - Tower Edition (Epic Games) Giveaways",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/norush-tower-edition-epic-games-giveaways",
-      "until": "2026-09-09"
-    },
-    {
-      "name": "Leaper (IndieGala) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/leaper-pc-giveaway",
       "until": "N/A"
     }
   ]
