@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rivisuru-png.github.io/day-of-vb/</loc>
+    <loc>https://rivisuru-png.github.io/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rivisuru-png.github.io/day-of-vb/contact.html</loc>
+    <loc>https://rivisuru-png.github.io/contact.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://rivisuru-png.github.io/day-of-vb/donate.html</loc>
+    <loc>https://rivisuru-png.github.io/donate.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
