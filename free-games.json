@@ -1,6 +1,12 @@
 {
-  "updated": "2026-09-10",
+  "updated": "2026-09-14",
   "games": [
+    {
+      "name": "Crystal Crisis (Steam) Giveaway",
+      "platform": "steam",
+      "url": "https://www.gamerpower.com/open/crystal-crisis-steam-giveaway",
+      "until": "2026-09-22"
+    },
     {
       "name": "Alone With You (Mobile) Giveaway",
       "platform": "epic",
@@ -20,21 +26,15 @@
       "until": "2026-09-17"
     },
     {
-      "name": "MANDATO (Itch.io) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/mandato-itch-io-giveaway",
-      "until": "2026-09-11"
-    },
-    {
-      "name": "Liminal Space Holiday (Itch.io) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/liminal-space-holiday-itch-io-giveaway",
-      "until": "2026-09-13"
-    },
-    {
       "name": "Battle Ram (IndieGala) Giveaway",
       "platform": "epic",
       "url": "https://www.gamerpower.com/open/battle-ram-pc-giveaway",
+      "until": "N/A"
+    },
+    {
+      "name": "Leaper (IndieGala) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/leaper-pc-giveaway",
       "until": "N/A"
     }
   ]
