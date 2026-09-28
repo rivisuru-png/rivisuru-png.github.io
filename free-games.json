@@ -1,6 +1,18 @@
 {
-  "updated": "2026-09-24",
+  "updated": "2026-09-28",
   "games": [
+    {
+      "name": "Best Plumber (IndieGala) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/best-plumber-pc-giveaway",
+      "until": "N/A"
+    },
+    {
+      "name": "Castlevania: 40th Anniversary (Mobile) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/castlevania-40th-anniversary-mobile-giveaway",
+      "until": "2026-10-24"
+    },
     {
       "name": "Cardpocalypse (Mobile) Giveaway",
       "platform": "epic",
@@ -24,18 +36,6 @@
       "platform": "epic",
       "url": "https://www.gamerpower.com/open/hamster-talk-stove-giveaway",
       "until": "2026-09-29"
-    },
-    {
-      "name": "Rush Rush Red Shoes (Stove) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/rush-rush-red-shoes-stove-giveaway",
-      "until": "2026-10-09"
-    },
-    {
-      "name": "Sausage Hunter (Indiegala) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/sausage-hunter-pc-giveaway",
-      "until": "N/A"
     }
   ]
 }
