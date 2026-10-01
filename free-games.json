@@ -1,6 +1,30 @@
 {
-  "updated": "2026-09-28",
+  "updated": "2026-10-01",
   "games": [
+    {
+      "name": "Bridge Constructor Studio (Mobile) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/bridge-constructor-studio-mobile-giveaway",
+      "until": "2026-10-08"
+    },
+    {
+      "name": "BURIED STARS (Epic Games) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/buried-stars-epic-games-giveaway",
+      "until": "2026-10-08"
+    },
+    {
+      "name": "System Shock 2: 25th Anniversary Remaster (Epic Games) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/system-shock-2-25th-anniversary-remaster-epic-games-giveaway",
+      "until": "2026-10-08"
+    },
+    {
+      "name": "Express No. 6 (itch.io) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/express-no-6-itch-io-giveaway",
+      "until": "2026-10-05"
+    },
     {
       "name": "Best Plumber (IndieGala) Giveaway",
       "platform": "epic",
@@ -12,30 +36,6 @@
       "platform": "epic",
       "url": "https://www.gamerpower.com/open/castlevania-40th-anniversary-mobile-giveaway",
       "until": "2026-10-24"
-    },
-    {
-      "name": "Cardpocalypse (Mobile) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/cardpocalypse-mobile-giveaway",
-      "until": "2026-10-01"
-    },
-    {
-      "name": "Mechabellum (Epic Games) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/mechabellum-epic-games-giveaway",
-      "until": "2026-10-01"
-    },
-    {
-      "name": "Astrea: Six Sided Oracles (Epic Games) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/astrea-six-sided-oracles-epic-games-giveaway",
-      "until": "2026-10-01"
-    },
-    {
-      "name": "Hamster Talk (Stove) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/hamster-talk-stove-giveaway",
-      "until": "2026-09-29"
     }
   ]
 }
