@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01",
+  "updated": "2026-10-05",
   "games": [
     {
       "name": "Bridge Constructor Studio (Mobile) Giveaway",
@@ -20,12 +20,6 @@
       "until": "2026-10-08"
     },
     {
-      "name": "Express No. 6 (itch.io) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/express-no-6-itch-io-giveaway",
-      "until": "2026-10-05"
-    },
-    {
       "name": "Best Plumber (IndieGala) Giveaway",
       "platform": "epic",
       "url": "https://www.gamerpower.com/open/best-plumber-pc-giveaway",
@@ -36,6 +30,12 @@
       "platform": "epic",
       "url": "https://www.gamerpower.com/open/castlevania-40th-anniversary-mobile-giveaway",
       "until": "2026-10-24"
+    },
+    {
+      "name": "Rush Rush Red Shoes (Stove) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/rush-rush-red-shoes-stove-giveaway",
+      "until": "2026-10-09"
     }
   ]
 }
