@@ -1,41 +1,41 @@
 {
-  "updated": "2026-10-05",
+  "updated": "2026-10-08",
   "games": [
     {
-      "name": "Bridge Constructor Studio (Mobile) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/bridge-constructor-studio-mobile-giveaway",
-      "until": "2026-10-08"
+      "name": "Pony Island (Steam) Giveaway",
+      "platform": "steam",
+      "url": "https://www.gamerpower.com/open/pony-island-steam-giveaway",
+      "until": "2026-10-12"
     },
     {
-      "name": "BURIED STARS (Epic Games) Giveaway",
+      "name": "The Big Con (Mobile) Giveaway",
       "platform": "epic",
-      "url": "https://www.gamerpower.com/open/buried-stars-epic-games-giveaway",
-      "until": "2026-10-08"
+      "url": "https://www.gamerpower.com/open/the-big-con-mobile-giveaway",
+      "until": "2026-10-15"
     },
     {
-      "name": "System Shock 2: 25th Anniversary Remaster (Epic Games) Giveaway",
+      "name": "TerraScape (Epic Games) Giveaway",
       "platform": "epic",
-      "url": "https://www.gamerpower.com/open/system-shock-2-25th-anniversary-remaster-epic-games-giveaway",
-      "until": "2026-10-08"
+      "url": "https://www.gamerpower.com/open/terrascape-epic-games-giveaway",
+      "until": "2026-10-15"
+    },
+    {
+      "name": "Out of Sight (Epic Games) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/out-of-sight-epic-games-giveaway",
+      "until": "2026-10-15"
+    },
+    {
+      "name": "Spooky Cats Steam Key Giveaway",
+      "platform": "steam",
+      "url": "https://www.gamerpower.com/open/spooky-cats-steam-key-giveaway",
+      "until": "2026-10-09"
     },
     {
       "name": "Best Plumber (IndieGala) Giveaway",
       "platform": "epic",
       "url": "https://www.gamerpower.com/open/best-plumber-pc-giveaway",
       "until": "N/A"
-    },
-    {
-      "name": "Castlevania: 40th Anniversary (Mobile) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/castlevania-40th-anniversary-mobile-giveaway",
-      "until": "2026-10-24"
-    },
-    {
-      "name": "Rush Rush Red Shoes (Stove) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/rush-rush-red-shoes-stove-giveaway",
-      "until": "2026-10-09"
     }
   ]
 }
