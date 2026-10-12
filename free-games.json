@@ -1,12 +1,6 @@
 {
-  "updated": "2026-10-08",
+  "updated": "2026-10-12",
   "games": [
-    {
-      "name": "Pony Island (Steam) Giveaway",
-      "platform": "steam",
-      "url": "https://www.gamerpower.com/open/pony-island-steam-giveaway",
-      "until": "2026-10-12"
-    },
     {
       "name": "The Big Con (Mobile) Giveaway",
       "platform": "epic",
@@ -26,15 +20,21 @@
       "until": "2026-10-15"
     },
     {
-      "name": "Spooky Cats Steam Key Giveaway",
-      "platform": "steam",
-      "url": "https://www.gamerpower.com/open/spooky-cats-steam-key-giveaway",
-      "until": "2026-10-09"
-    },
-    {
       "name": "Best Plumber (IndieGala) Giveaway",
       "platform": "epic",
       "url": "https://www.gamerpower.com/open/best-plumber-pc-giveaway",
+      "until": "N/A"
+    },
+    {
+      "name": "Castlevania: 40th Anniversary (Mobile) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/castlevania-40th-anniversary-mobile-giveaway",
+      "until": "2026-10-24"
+    },
+    {
+      "name": "Sausage Hunter (Indiegala) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/sausage-hunter-pc-giveaway",
       "until": "N/A"
     }
   ]
