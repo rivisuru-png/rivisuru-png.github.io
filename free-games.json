@@ -1,23 +1,17 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-15",
   "games": [
     {
-      "name": "The Big Con (Mobile) Giveaway",
+      "name": "Agent A: A puzzle in disguise (Epic Games) Giveaway",
       "platform": "epic",
-      "url": "https://www.gamerpower.com/open/the-big-con-mobile-giveaway",
-      "until": "2026-10-15"
+      "url": "https://www.gamerpower.com/open/agent-a-a-puzzle-in-disguise-epic-games-giveaway",
+      "until": "2026-10-22"
     },
     {
-      "name": "TerraScape (Epic Games) Giveaway",
+      "name": "Bad Cheese (Epic Games) Giveaway",
       "platform": "epic",
-      "url": "https://www.gamerpower.com/open/terrascape-epic-games-giveaway",
-      "until": "2026-10-15"
-    },
-    {
-      "name": "Out of Sight (Epic Games) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/out-of-sight-epic-games-giveaway",
-      "until": "2026-10-15"
+      "url": "https://www.gamerpower.com/open/bad-cheese-epic-games-giveaway",
+      "until": "2026-10-22"
     },
     {
       "name": "Best Plumber (IndieGala) Giveaway",
@@ -35,6 +29,12 @@
       "name": "Sausage Hunter (Indiegala) Giveaway",
       "platform": "epic",
       "url": "https://www.gamerpower.com/open/sausage-hunter-pc-giveaway",
+      "until": "N/A"
+    },
+    {
+      "name": "Battle Ram (IndieGala) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/battle-ram-pc-giveaway",
       "until": "N/A"
     }
   ]
