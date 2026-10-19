@@ -1,6 +1,30 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-19",
   "games": [
+    {
+      "name": "Last Room (IndieGala) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/last-room-pc-giveaway",
+      "until": "N/A"
+    },
+    {
+      "name": "GetHigh.EXE (Epic Games) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/gethigh-exe-epic-games-giveaway",
+      "until": "2026-11-02"
+    },
+    {
+      "name": "The Black Within (itch.io) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/the-black-within-itch-io-giveaway",
+      "until": "2026-10-24"
+    },
+    {
+      "name": "The Green Light (itch.io) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/the-green-light-itch-io-giveaway",
+      "until": "2026-10-29"
+    },
     {
       "name": "Agent A: A puzzle in disguise (Epic Games) Giveaway",
       "platform": "epic",
@@ -12,30 +36,6 @@
       "platform": "epic",
       "url": "https://www.gamerpower.com/open/bad-cheese-epic-games-giveaway",
       "until": "2026-10-22"
-    },
-    {
-      "name": "Best Plumber (IndieGala) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/best-plumber-pc-giveaway",
-      "until": "N/A"
-    },
-    {
-      "name": "Castlevania: 40th Anniversary (Mobile) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/castlevania-40th-anniversary-mobile-giveaway",
-      "until": "2026-10-24"
-    },
-    {
-      "name": "Sausage Hunter (Indiegala) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/sausage-hunter-pc-giveaway",
-      "until": "N/A"
-    },
-    {
-      "name": "Battle Ram (IndieGala) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/battle-ram-pc-giveaway",
-      "until": "N/A"
     }
   ]
 }
