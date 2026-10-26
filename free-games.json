@@ -1,6 +1,18 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-26",
   "games": [
+    {
+      "name": "ANCIENT EVIL (IndieGala) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/ancient-evil-pc-giveaway",
+      "until": "N/A"
+    },
+    {
+      "name": "MAFIA HOTEL (Epic Games) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/mafia-hotel-epic-games-giveaway",
+      "until": "2026-11-01"
+    },
     {
       "name": "Sker Ritual (Epic Games) Giveaway",
       "platform": "epic",
@@ -24,18 +36,6 @@
       "platform": "epic",
       "url": "https://www.gamerpower.com/open/last-room-pc-giveaway",
       "until": "N/A"
-    },
-    {
-      "name": "GetHigh.EXE (Epic Games) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/gethigh-exe-epic-games-giveaway",
-      "until": "2026-11-02"
-    },
-    {
-      "name": "The Black Within (itch.io) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/the-black-within-itch-io-giveaway",
-      "until": "2026-10-24"
     }
   ]
 }
