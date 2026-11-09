@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05",
+  "updated": "2026-11-09",
   "games": [
     {
       "name": "Chants of Sennaar (Mobile) Giveaway",
@@ -14,28 +14,28 @@
       "until": "2026-11-12"
     },
     {
-      "name": "Letter Quest: Grimm's Journey Remastered Steam Key Giveaway",
-      "platform": "steam",
-      "url": "https://www.gamerpower.com/open/letter-quest-grimm-s-journey-remastered-steam-key-giveaway",
-      "until": "2026-11-06"
+      "name": "My Darkest Witch (IndieGala) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/my-darkest-witch-pc-giveaway",
+      "until": "N/A"
     },
     {
-      "name": "Highway Driving (Epic Games) Giveaway",
+      "name": "Free itch.io Games Bundle",
       "platform": "epic",
-      "url": "https://www.gamerpower.com/open/highway-driving-epic-games-giveaway",
-      "until": "2026-11-08"
+      "url": "https://www.gamerpower.com/open/free-itch-io-games-bundle",
+      "until": "2026-11-22"
     },
     {
-      "name": "Dark Mystery (Epic Games) Giveaway",
+      "name": "ANCIENT EVIL (IndieGala) Giveaway",
       "platform": "epic",
-      "url": "https://www.gamerpower.com/open/dark-mystery-epic-games-giveaway",
-      "until": "2026-11-08"
+      "url": "https://www.gamerpower.com/open/ancient-evil-pc-giveaway",
+      "until": "N/A"
     },
     {
-      "name": "Horse Racing (Epic Games) Giveaway",
+      "name": "Last Room (IndieGala) Giveaway",
       "platform": "epic",
-      "url": "https://www.gamerpower.com/open/horse-racing-epic-games-giveaway",
-      "until": "2026-11-08"
+      "url": "https://www.gamerpower.com/open/last-room-pc-giveaway",
+      "until": "N/A"
     }
   ]
 }
