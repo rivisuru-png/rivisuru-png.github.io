@@ -1,17 +1,11 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-12",
   "games": [
     {
-      "name": "Chants of Sennaar (Mobile) Giveaway",
+      "name": "Knightica (Epic Games) Giveaway",
       "platform": "epic",
-      "url": "https://www.gamerpower.com/open/chants-of-sennaar-mobile-giveaway",
-      "until": "2026-11-12"
-    },
-    {
-      "name": "Flotsam (Epic Games) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/flotsam-epic-games-giveaway",
-      "until": "2026-11-12"
+      "url": "https://www.gamerpower.com/open/knightica-epic-games-giveaway",
+      "until": "2026-11-19"
     },
     {
       "name": "My Darkest Witch (IndieGala) Giveaway",
@@ -35,6 +29,12 @@
       "name": "Last Room (IndieGala) Giveaway",
       "platform": "epic",
       "url": "https://www.gamerpower.com/open/last-room-pc-giveaway",
+      "until": "N/A"
+    },
+    {
+      "name": "Best Plumber (IndieGala) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/best-plumber-pc-giveaway",
       "until": "N/A"
     }
   ]
