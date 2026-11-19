@@ -1,11 +1,23 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-19",
   "games": [
     {
-      "name": "Knightica (Epic Games) Giveaway",
+      "name": "Lonesome Village (Mobile) Giveaway",
       "platform": "epic",
-      "url": "https://www.gamerpower.com/open/knightica-epic-games-giveaway",
-      "until": "2026-11-19"
+      "url": "https://www.gamerpower.com/open/lonesome-village-mobile-giveaway",
+      "until": "2026-11-26"
+    },
+    {
+      "name": "Mark of the Deep (Epic Games) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/mark-of-the-deep-epic-games-giveaway",
+      "until": "2026-11-26"
+    },
+    {
+      "name": "Contractor: The Clean Up Part 2 (Epic Games) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/contractor-the-clean-up-part-2-epic-games-giveaway",
+      "until": "2026-12-02"
     },
     {
       "name": "My Darkest Witch (IndieGala) Giveaway",
@@ -23,18 +35,6 @@
       "name": "ANCIENT EVIL (IndieGala) Giveaway",
       "platform": "epic",
       "url": "https://www.gamerpower.com/open/ancient-evil-pc-giveaway",
-      "until": "N/A"
-    },
-    {
-      "name": "Last Room (IndieGala) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/last-room-pc-giveaway",
-      "until": "N/A"
-    },
-    {
-      "name": "Best Plumber (IndieGala) Giveaway",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/best-plumber-pc-giveaway",
       "until": "N/A"
     }
   ]
