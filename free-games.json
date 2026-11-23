@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-23",
   "games": [
     {
       "name": "Lonesome Village (Mobile) Giveaway",
@@ -26,15 +26,15 @@
       "until": "N/A"
     },
     {
-      "name": "Free itch.io Games Bundle",
-      "platform": "epic",
-      "url": "https://www.gamerpower.com/open/free-itch-io-games-bundle",
-      "until": "2026-11-22"
-    },
-    {
       "name": "ANCIENT EVIL (IndieGala) Giveaway",
       "platform": "epic",
       "url": "https://www.gamerpower.com/open/ancient-evil-pc-giveaway",
+      "until": "N/A"
+    },
+    {
+      "name": "Last Room (IndieGala) Giveaway",
+      "platform": "epic",
+      "url": "https://www.gamerpower.com/open/last-room-pc-giveaway",
       "until": "N/A"
     }
   ]
